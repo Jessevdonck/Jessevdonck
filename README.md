@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🎉 I am a second-year student at **HoGent** stud
 
 ## 🛠️ Skills
 - **Frontend**: HTML, CSS, JavaScript, React.
-- **Backend**: Koa, MySQL, Java, C#.
+- **Backend**:  Java, C#, Koa, MySQL.
 - **Tools**: Git, Unity, Visual Studio Code, IntelliJ
 
 ---

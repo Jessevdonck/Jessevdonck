@@ -1,4 +1,4 @@
-# Hi, I'm Jesse Vaerendonck 👋
+# Hi, I'm Jesse Vaerendonck 
 
 I'm a Software Engineer Consultant at **Elmos Consultancy** and hold a Bachelor's degree in **Applied Informatics** from **HoGent**.
 

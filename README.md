@@ -1,38 +1,13 @@
-# Hi, I'm Jesse Vaerendonck!
+# Hi, I'm Jesse Vaerendonck 👋
 
-Welcome to my GitHub profile! I am a second-year student at **HoGent** studying **Applied Informatics**, specializing in **Web Development**. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to explore my work and connect with me!
+I'm a Software Engineer Consultant at **Elmos Consultancy** and hold a Bachelor's degree in **Applied Informatics** from **HoGent**.
 
----
+I enjoy building software, exploring new technologies, and continuously improving my skills. This GitHub profile is where I share personal projects, experiments, and open-source contributions.
 
-## About Me
-- **Web Development Enthusiast**: Passionate about creating modern and user-friendly web applications.
-- **Lifelong Learner**: Always eager to learn and improve my skills.
-- **Portfolio**: Check out my personal website for more information and projects: [jessevdonck.com](https://jessevdonck.com)
+For more about me and my work, visit **https://jessevdonck.com**.
 
----
+## Connect
 
-## Skills
-- **Frontend**: HTML, CSS, JavaScript, React.
-- **Backend**:  Java, C#, Python, Koa, MySQL.
-- **Tools**: Git, Unity, Visual Studio Code, IntelliJ
-
----
-
-## GitHub Stats
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessevdonck&show_icons=true&theme=radical)
-
----
-
-## Let's Connect!
-- 🌐 [Website](https://jessevdonck.com)
-- ✉️ [Email](mailto:jvaerendonck@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jesse-vaerendonck/)
----
-
-## Fun Facts
-- I enjoy Politics, History and Philosophy.
-- In my free time, I love playing chess!
-
----
-
-Thanks for visiting my profile!
+* 🌐 https://jessevdonck.com
+* 💼 https://www.linkedin.com/in/jesse-vaerendonck/
+* ✉️ [jvaerendonck@gmail.com](mailto:jvaerendonck@gmail.com)
